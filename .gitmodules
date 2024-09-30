@@ -1,0 +1,12 @@
+[submodule "authorization-server"]
+	path = authorization-server
+	url = https://github.com/XiscoCambil/authorization-server.git
+[submodule "core"]
+	path = core
+	url = https://github.com/XiscoCambil/core.git
+[submodule "front"]
+	path = front
+	url = https://github.com/XiscoCambil/front.git
+[submodule "generator"]
+	path = generator
+	url = https://github.com/XiscoCambil/generator.git
